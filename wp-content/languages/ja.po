@@ -12481,7 +12481,7 @@ msgstr "パスワード"
 
 #: wp-activate.php:135 wp-signup.php:230
 msgid "Username:"
-msgstr "ユーザー名:"
+msgstr "Username:"
 
 #: wp-activate.php:124
 msgid "An error occurred during the activation"
